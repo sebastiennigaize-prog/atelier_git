@@ -3,4 +3,4 @@ Premier projet suivi avec Git.
 ## Objectif
 Comprendre le workflow Git de base.
 
-sebastien nigaa
+sebastien nigai
